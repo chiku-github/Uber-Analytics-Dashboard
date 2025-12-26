@@ -69,13 +69,6 @@ The dashboard helps stakeholders understand **demand patterns, revenue drivers, 
 - Regular riders contribute maximum revenue
 - Top customers show higher average distance per ride
 
----
-
-## 📷 Dashboard Preview (GIF)
-
-<p align="center">
-  <img src="assets/uber_performance_dashboard.gif" width="900">
-</p>
 
 ---
 
